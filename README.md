@@ -1,5 +1,12 @@
 # E05a-Animation
 
+#This assignment is about the movement and collision.
+#I can sucessfully run my program and collect coins.
+#I can better understand the movement of the subject along with actions on keyboard or mouse, and also figure out how to insert the sprites and make it works.
+
+
+
+
 We will begin to explore keyboard and mouse control in a Python Arcade program.
 
 When you are done, main1.py should contain the code on [http://arcade.academy/examples/move_mouse.html#move-mouse](http://arcade.academy/examples/move_mouse.html#move-mouse). Play with the code until you feel like you understand what is going on. Comment any uncommented line; feel free to ask for help!
